@@ -1,5 +1,5 @@
 # NHS Python Community Website
-
+PLEASE NOTE🚨 📢 As part of the merger between NHS-R and NHS.pycom into NHS-Open Analytics, the website *www.nhs-pycom.net* is no longer active. We are moving our content to a new NHS-Open Analytics website in due course.
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
